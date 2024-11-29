@@ -74,7 +74,7 @@ function PaymentPage() {
                 </label>
                 <div className="input__wrapper">
                   <input className="form__input" name="email" type="email" />
-                  <button className="form__add" type="submit">
+                  <button className="form__add">
                     <img src={addIcon} alt="icon to add" />
                   </button>
                 </div>
