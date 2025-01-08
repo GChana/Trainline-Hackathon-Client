@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imageSrc": "/assets/images/Explore/venice.png",
+    "imageSrc": "https://https://teamplanktonhackathon.netlify.app/assets/images/Explore/venice.png",
     "location": "Venice, Italy",
     "author": "Juan",
     "short_description": "Visiting Venice was magical. Even alone, I loved it.",
