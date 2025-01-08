@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imageSrc": "/public/images/venice.png",
+    "imageSrc": "/public/assets/images/explore/venice.png",
     "location": "Venice, Italy",
     "author": "Juan",
     "short_description": "Visiting Venice was magical. Even alone, I loved it.",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "imageSrc": "/public/images/edinburgh.png",
+    "imageSrc": "/public/assets/images/explore/edinburgh.png",
     "location": "Edinburgh, UK",
     "author": "Viv",
     "short_description": "Finally made it to Edinburgh, and it’s just as beautiful as I remember.",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "imageSrc": "/public/images/warsaw.png",
+    "imageSrc": "/public/assets/images/explore/warsaw.png",
     "location": "Warsaw, Poland",
     "author": "Viv",
     "short_description": "Exploring Poland was amazing—beautiful architecture and vibrant culture.",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "imageSrc": "/public/images/oslo.png",
+    "imageSrc": "/public/assets/images/explore/oslo.png",
     "location": "Oslo, Norway",
     "author": "Hans Müller",
     "short_description": "Met some wonderful people in Oslo and had a great time.",
