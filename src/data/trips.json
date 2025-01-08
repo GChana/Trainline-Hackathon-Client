@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "imageSrc": "https://https://teamplanktonhackathon.netlify.app/assets/images/Explore/venice.png",
+    "imageSrc": "https://www.fodors.com/wp-content/uploads/2023/06/0-HERO-istockphoto-1388018793.jpg",
     "location": "Venice, Italy",
     "author": "Juan",
     "short_description": "Visiting Venice was magical. Even alone, I loved it.",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "imageSrc": "/assets/images/Explore/edinburgh.png",
+    "imageSrc": "https://images.squarespace-cdn.com/content/5efb46cf46fb3d2f36091afa/1689766214938-P7V361S2ACZYP7KEPKUC/Edinburgh+%283%29.jpg?content-type=image%2Fjpeg",
     "location": "Edinburgh, UK",
     "author": "Viv",
     "short_description": "Finally made it to Edinburgh, and it’s just as beautiful as I remember.",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "imageSrc": "/assets/images/Explore/warsaw.png",
+    "imageSrc": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/33/fa/d2/warsaw.jpg?w=1400&h=1400&s=1",
     "location": "Warsaw, Poland",
     "author": "Viv",
     "short_description": "Exploring Poland was amazing—beautiful architecture and vibrant culture.",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "imageSrc": "/assets/images/Explore/oslo.png",
+    "imageSrc": "/https://janameerman.com/wp-content/uploads/2023/10/jana-meerman-oslo-norway-5.jpg",
     "location": "Oslo, Norway",
     "author": "Hans Müller",
     "short_description": "Met some wonderful people in Oslo and had a great time.",
